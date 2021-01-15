@@ -1,23 +1,8 @@
-# sfmc-projects-template
-Quickstart, boilerplate repository template for Salesforce Marketing Cloud projects (Replace this header with the name of your project, replace this text with a brief description of your project, and update the rest of the readme file to reflect the details of your project.  This is just a starting point to reference.  Edit this readme however you see fit.)
+# apex-enterprise-pattern-sample
+This is an example of using Apex Enterprise Pattern Selector Layer (https://trailhead.salesforce.com/content/learn/modules/apex_patterns_dsl/apex_patterns_dsl_learn_selector_l_principles) 
 
----
-## Client Name
-Example Client
 
-## SFMC MID(s)
-0000000
+**Dependencies:**  
+[ApexMocks](https://github.com/apex-enterprise-patterns/fflib-apex-mocks) 
+[ApexCommons](https://github.com/apex-enterprise-patterns/fflib-apex-common) 
 
-## SFMC Team Members
-- Project Manager | email address
-- SA | email address
-- TA | email address
-- QA | email address
-- Other team member 1 | email address
-- Other team member 2 | email address
-
-## Technologies Used
-- Email Studio
-  - Data Extensions>Example Directory>Example Data Extension Name
-- Automation Studio
-  - my automations/example directory/Example Automation Name
